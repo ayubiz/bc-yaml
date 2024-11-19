@@ -4,6 +4,6 @@ metadata:
   name: Shinchan
 spec:
   profile:
-    displayName: Shin Chan
+    displayName: Shinchan
     email: shinchan@arthurtoday.com
   memberOf: [teamB, employees]
