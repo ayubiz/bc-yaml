@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: shinchan
+spec:
+  profile:
+    displayName: Shin Chan
+    email: shinchan@arthurtoday.com
+  memberOf: [teamB, employees]
