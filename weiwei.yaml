@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: weiwei
+spec:
+  profile:
+    displayName: Wei Wei Yeh
+    email: weiwei@arthurtoday.com
+  memberOf: [teamB, employees]
