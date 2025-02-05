@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: 
+  description: 電子催收系統
+  annotations:
+    backstage.io/managed-by: 法金催收科
+  links:
+    - url: https://confluence.example.com/domains/ecommerce
+      title: Domain Documentation
+      icon: doc
+    - url: https://jira.example.com/projects/ECOM
+      title: Domain Projects
+      icon: jira
+spec:
+  owner: group:hmcmp-dev
