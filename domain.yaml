@@ -4,7 +4,7 @@ metadata:
   name: ABC
   description: 電子催收系統
   annotations:
-    backstage.io/managed-by: 法金催收科
+    backstage.io/managed-by: EFG
   links:
     - url: https://confluence.example.com/domains/ecommerce
       title: Domain Documentation
