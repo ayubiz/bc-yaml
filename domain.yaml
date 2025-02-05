@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Domain
 metadata:
-  name: 
+  name: 電子催收系統
   description: 電子催收系統
   annotations:
     backstage.io/managed-by: 法金催收科
